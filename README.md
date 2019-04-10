@@ -1,0 +1,2 @@
+# OS-ASSIGNMENT-Q42
+C language solution of SLEEPING BARBER PROBLEM
